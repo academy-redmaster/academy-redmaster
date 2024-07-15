@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=academy-redmaster&label=Profile%20views&color=0e75b6&style=flat" alt="academy-redmaster" /> </p>
+<p align="left"> <img src="https://github.com/academy-redmaster/academy-redmaster/blob/main/user-profile.svg&label=Profile%20views&color=0e75b6&style=flat" alt="academy-redmaster" /> </p>
 <h1 align="center">Hi 👋, I'm Ali Shahbaz</h1>
 <h3 align="center">welcome to redmaster.academy</h3>
 
