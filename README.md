@@ -1,5 +1,5 @@
 
-<img align="center" src="./user-profile.svg&show_icons=true&locale=en" alt="academy-redmaster" />
+<img  src="./user-profile.svg" alt="academy-redmaster" />
 <h1 align="center">Hi 👋, I'm Ali Shahbaz</h1>
 <h3 align="center">welcome to redmaster.academy</h3>
 
