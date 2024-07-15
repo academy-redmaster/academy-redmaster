@@ -36,6 +36,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=academy-redmaster&show_icons=true&locale=en" alt="academy-redmaster" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=academy-redmaster&label=Profile%20views&color=0e75b6&style=flat" alt="academy-redmaster" /> </p>
+<p align="center"> <img src="./RedMaster.png" alt="academy-redmaster" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=academy-redmaster" alt="academy-redmaster" /></a> </p>
+
