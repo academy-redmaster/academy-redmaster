@@ -37,7 +37,6 @@
 #
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=academy-redmaster&show_icons=true&locale=en&theme=gruvbox" alt="academy-redmaster" /></p>
 
-<p><img   src="https://github-readme-stats.vercel.app/api/top-langs?username=academy-redmaster&show_icons=true&locale=en&layout=compact" alt="academy-redmaster" /></p>
 <!-- <p align="center"> <img src="./RedMaster.png" alt="academy-redmaster" /> </p> -->
 
 
