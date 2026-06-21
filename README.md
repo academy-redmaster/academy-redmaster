@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&section=header&reversal=true&text=Hey%20there!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=blink&desc=RedMaster&descSize=24&descAlign=10&descAlignY=25&theme=cobalt" />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&section=header&reversal=true&text=Hey%20there!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=blink&desc=Ali Shahbaz&descSize=24&descAlign=10&descAlignY=25&theme=cobalt" />
 </div>
 
 ###
