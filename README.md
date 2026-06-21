@@ -1,9 +1,7 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&section=header&reversal=true&text=Hey%20there!%20%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&animation=blink&desc=Ali Shahbaz&descSize=24&descAlign=10&descAlignY=25&theme=cobalt" />
-</div>
-
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&section=header&reversal=true&text=Hey%20there!%20%F0%9F%91%8B%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=Ali%20%20Shahbaz&descSize=24&descAlign=10&descAlignY=25&textBg=false&theme=cobalt"  />
 ###
 
 <div data-importer="image" align="center">
