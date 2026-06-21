@@ -2,7 +2,7 @@
 
 <div data-importer="border">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=120&section=header&reversal=true&text=Hey%20there!%20%F0%9F%91%8B%20&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blink&desc=Ali%20%20Shahbaz&descSize=24&descAlign=10&descAlignY=25&textBg=false&theme=cobalt"  />
-###
+
 
 <div data-importer="image" align="center">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGZiN2NqdDBrZzZkaGJmeWd6N2RzN2poNTRwbmJ4dDdyeTBtNm9xeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bx8tQ1edbvZxGnNMlw/giphy.gif" />
@@ -10,16 +10,15 @@
 
 ###
 
-<h1 align="left">Hi, I'm RedMaster</h1>
+<h1 align="left">Hi, I'm Ali Shahbaz</h1>
 
-###
 
 <p align="left">
 🚀 Full-Stack Developer & Founder of RedMaster Academy<br><br>
 
 I design and build modern web applications, create practical learning experiences, and share real-world knowledge to help developers grow into strong software engineers.<br><br>
 
----
+
 
 ## About Me<br><br>
 
